@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color:#2d3436;
+}
+#ledButton {
+    background-color: #0f2e0c;
+    color: white
+  }
+  
+  #ledButton.clicked {
+    background-color: #ba0202;
+  }
+ #main-div{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+ }
+ h4{
+    color: #00a8ff;
+ }
+ .mpu6050{
+   color: #fbc531;
+ }
+
